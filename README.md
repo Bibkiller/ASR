@@ -34,7 +34,7 @@ PASCAL VOC dataset
 MS COCO dataset  
 
 ### Train&Test  
-main.ipynb  
+main.ipynb ()
 
 ### License  
 [here](https://github.com/Bibkiller/ASR/edit/main/README.md)  
